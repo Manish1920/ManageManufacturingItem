@@ -3,7 +3,7 @@
 This project provides a comprehensive solution for managing manufacturing items, including functionality for retrieving items, filtering by district or status, and performing CRUD operations (Create, Read, Update, Delete). It is designed to streamline the management process of manufacturing inventory by allowing users to easily access and manipulate item data.
 
 ## Clone Repository
-git clone https://github.com/Manish1920/ManufacturingItem.git
+git clone https://github.com/Manish1920/ManageManufacturingItem.git
 
 ### For access UI
 https://localhost:7181/ManufacturingItem
